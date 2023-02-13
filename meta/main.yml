@@ -3,7 +3,7 @@ dependencies:
   - gzeel.php
 
 galaxy_info:
-  role_name: php-mysql
+  role_name: php_mysql
   author: gzeel
   description: PHP MySQL support for Linux.
   license: "license (BSD, MIT)"
